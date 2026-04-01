@@ -9,6 +9,6 @@ public class MiniblogApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MiniblogApplication.class, args);
 	}
-
+ㅈㄷㄹㅈㄷㄹㄷㅈ
 }ㄷㅈㄹㄷ
 5g
