@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MiniblogApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MiniblogApplication.class, args);
+		SpringApplication.run(MiniblogApplicationㅈㄷㄹ.class, args);
 	}
 ㅈㄷㄹㅈㄷㄹㄷㅈ
 }ㄷㅈㄹㄷㅈㄷㄹㄷㅈㄹㄷㅈㄹㅊ
