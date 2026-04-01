@@ -10,5 +10,5 @@ public class MiniblogApplication {
 		SpringApplication.run(MiniblogApplication.class, args);
 	}
 ㅈㄷㄹㅈㄷㄹㄷㅈ
-}ㄷㅈㄹㄷ
+}ㄷㅈㄹㄷㅈㄷㄹㄷㅈㄹㄷㅈㄹㅊ
 5g
